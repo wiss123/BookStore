@@ -1,0 +1,2 @@
+per aprire node js : npm init
+per fare encrypt data , dobbiamo installare prima: npm i bcrypt
